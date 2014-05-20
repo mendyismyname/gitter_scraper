@@ -1,4 +1,4 @@
 gitter_scraper
 ==============
 
-Scrape Gitter for important data
+Scrape Gitter for links in BK-001 chatroom.
